@@ -1,30 +1,30 @@
 # Wiki
 
-## [General](General/README.md)
+## General
 
 - [Onboarding](General/Onboarding.md)
 
-## [Association/Associazione/NonProfit](NonProfit/README.md)
+## Association/Associazione/NonProfit
 
 - Google Workspace
 - Pec
 
-## [Ecommerce](Ecommerce/README.md)
+## Ecommerce
 
 - Printful
 - Shopify
 
-## [Finance](Finance/README.md)
+## Finance
 
 - Qonto
 - OpenCollective
 - PayPal
 
-## [Soci](Soci/README.md)
+## Soci
 
 - Peoplez
 
-## [Events](Events/README.md)
+## Events
 
 - Eventbrite
 - Sessionize
@@ -42,7 +42,7 @@
 - Resend
 - Supabase
 
-## [Social](Social/README.md)
+## Social
 
 - Emailoctopus
 - Instagram
@@ -53,12 +53,12 @@
 - Twitch
 - Twitter/X
 
-## [Tools](Tools/README.md)
+## Tools
 
 - Figma
 - Flickr
 
-## [Security](security/README.md)
+## Security
 
 - Bitwarden
 
