@@ -19,7 +19,7 @@
 
 ## Finance
 
-- [Getting paid | Farsi pagare | IBAN | Billing](Finance.md)
+- [Getting paid | Farsi pagare | IBAN | Billing](Finance/Finance.md)
 - Qonto
 - OpenCollective
 - PayPal
