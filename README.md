@@ -20,17 +20,7 @@
 - Eventbrite
 - Sessionize
 
-## [Development/Operations/Cloud](DevOpsCloud/README.md)
-
-- Netlify
-- Cloudfare
-- OVH
-- Vercel
-- DockerHub
-- Github
-- PyPi
-- Resend
-- Supabase
+## [Development/Operations/Cloud](DevOps/README.md)
 
 ## [Social](Social/README.md)
 
