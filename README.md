@@ -6,6 +6,9 @@
 
 ## Association/Associazione/NonProfit
 
+- [Intestazione Documenti | Documents Header](Association/HeaderDocs.md)
+- [Marketing](Association/Marketing.md)
+- [Firma | Delega | Carta Intestata](Association/Firma.md)
 - Google Workspace
 - Pec
 
@@ -16,6 +19,7 @@
 
 ## Finance
 
+- [Getting paid | Farsi pagare | IBAN | Billing](Finance.md)
 - Qonto
 - OpenCollective
 - PayPal
@@ -31,7 +35,7 @@
 
 ## Development/Operations/Cloud
 
-- [Hetzner](DevOps/hetzner.md)
+- [Hetzner](DevOps/Hetzner.md)
 - Netlify
 - Cloudfare
 - OVH
