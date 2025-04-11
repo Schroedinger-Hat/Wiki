@@ -1,5 +1,14 @@
 # Wiki
 
+## [General](General/README.md)
+
+- [Onboarding](General/Onboarding.md)
+
+## [Association/Associazione/NonProfit](NonProfit/README.md)
+
+- Google Workspace
+- Pec
+
 ## [Ecommerce](Ecommerce/README.md)
 
 - Printful
@@ -20,7 +29,18 @@
 - Eventbrite
 - Sessionize
 
-## [Development/Operations/Cloud](DevOps/README.md)
+## Development/Operations/Cloud
+
+- [Hetzner](DevOps/hetzner.md)
+- Netlify
+- Cloudfare
+- OVH
+- Vercel
+- DockerHub
+- Github
+- PyPi
+- Resend
+- Supabase
 
 ## [Social](Social/README.md)
 
@@ -41,9 +61,4 @@
 ## [Security](security/README.md)
 
 - Bitwarden
-
-## [Association/Associazione/NonProfit](NonProfit/README.md)
-
-- Google Workspace
-- Pec
 
