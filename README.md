@@ -59,6 +59,7 @@
 
 ## Tools
 
+- [Trello](Tools/Trello.md)
 - Figma
 - Flickr
 
