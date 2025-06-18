@@ -3,12 +3,14 @@
 ## General
 
 - [Onboarding](General/Onboarding.md)
+- [How we work](General/HowWeWork.md)
 
 ## Association/Associazione/NonProfit
 
 - [Intestazione Documenti | Documents Header](Association/HeaderDocs.md)
 - [Marketing](Association/Marketing.md)
 - [Firma | Delega | Carta Intestata](Association/Firma.md)
+- [Accounts](Association/Accounts.md)
 - Google Workspace
 - Pec
 
