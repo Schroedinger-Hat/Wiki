@@ -21,8 +21,15 @@
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   
-  <!-- Netlify Identity Widget -->
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <!-- Netlify Identity Widget - Only load in production -->
+  <script>
+    // Only load Netlify Identity in production
+    if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+      const script = document.createElement('script');
+      script.src = '/netlify-identity-widget.js';
+      document.head.appendChild(script);
+    }
+  </script>
   
   <style>
     /* Admin-specific styles with official branding */
@@ -116,9 +123,9 @@
 <body>
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   <script>
-    // Initialize Netlify Identity Widget
+    // Initialize Netlify Identity Widget (only in production)
     // @ts-ignore
-    if (window.netlifyIdentity) {
+    if (window.netlifyIdentity && window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
       // @ts-ignore
       window.netlifyIdentity.on("init", (user: any) => {
         if (!user) {

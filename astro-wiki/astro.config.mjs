@@ -37,7 +37,8 @@ export default defineConfig({
 				{
 					tag: 'script',
 					attrs: {
-						src: 'https://identity.netlify.com/v1/netlify-identity-widget.js'
+						src: '/netlify-identity-widget.js',
+						defer: true
 					}
 				}
 			],
