@@ -142,9 +142,7 @@
     if (typeof window.CMS !== 'undefined') {
       // @ts-ignore
       window.CMS.init({
-        config: window.location.hostname === 'schroddy.netlify.app'
-          ? '/config.production.yml' 
-          : '/config.yml'
+        config: '/config.yml'
       });
     }
   </script>
