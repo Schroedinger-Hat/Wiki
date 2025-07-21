@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Disallow all web crawlers from indexing any content
+# This wiki is intended for internal use only 

@@ -5,6 +5,9 @@ backend:
 # Enable local backend for development
 local_backend: true
 
+# Netlify Identity configuration
+publish_mode: editorial_workflow
+
 # Media folder configuration
 media_folder: "src/assets/images"
 public_folder: "/src/assets/images"

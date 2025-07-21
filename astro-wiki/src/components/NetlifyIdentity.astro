@@ -1,0 +1,68 @@
+---
+// Netlify Identity Widget Component
+---
+
+<div id="netlify-identity-widget"></div>
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  // Initialize Netlify Identity Widget
+  // @ts-ignore
+  if (window.netlifyIdentity) {
+    // @ts-ignore
+    window.netlifyIdentity.on("init", (user: any) => {
+      if (user) {
+        // User is logged in
+        console.log("User logged in:", user.email);
+      }
+    });
+
+    // @ts-ignore
+    window.netlifyIdentity.on("login", (user: any) => {
+      // User just logged in
+      console.log("User logged in:", user.email);
+      // Redirect to admin if on admin page
+      if (window.location.pathname === "/admin/") {
+        window.location.reload();
+      }
+    });
+
+    // @ts-ignore
+    window.netlifyIdentity.on("logout", () => {
+      // User just logged out
+      console.log("User logged out");
+      // Redirect to home if on admin page
+      if (window.location.pathname === "/admin/") {
+        window.location.href = "/";
+      }
+    });
+  }
+</script>
+
+<style>
+  #netlify-identity-widget {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1000;
+  }
+
+  /* Custom styling for the Netlify Identity button */
+  .netlify-identity-button {
+    background: var(--sh-primary-red);
+    color: var(--sh-primary-white);
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-family: var(--sh-font-body);
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .netlify-identity-button:hover {
+    background: var(--sh-red-dark);
+    transform: translateY(-1px);
+  }
+</style> 
