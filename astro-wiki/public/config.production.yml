@@ -2,24 +2,15 @@ backend:
   name: git-gateway
   branch: main
 
-# Enable local backend for development
-local_backend: true
-
 # Media folder configuration
-media_folder: "src/assets/images"
+media_folder: "astro-wiki/src/assets/images"
 public_folder: "/src/assets/images"
-
-# Site URL for preview (will be auto-detected in production)
-site_url: http://localhost:4321
-
-# Display URL for the CMS (will be auto-detected in production)
-display_url: http://localhost:4321
 
 # Collections configuration
 collections:
   - name: "general"
     label: "General"
-    folder: "src/content/docs/general"
+    folder: "astro-wiki/src/content/docs/general"
     create: true
     slug: "{{slug}}"
     sortable_fields: ["title", "date", "order"]
@@ -34,7 +25,7 @@ collections:
 
   - name: "association"
     label: "Association"
-    folder: "src/content/docs/association"
+    folder: "astro-wiki/src/content/docs/association"
     create: true
     slug: "{{slug}}"
     sortable_fields: ["title", "date", "order"]
@@ -49,7 +40,7 @@ collections:
 
   - name: "finance"
     label: "Finance"
-    folder: "src/content/docs/finance"
+    folder: "astro-wiki/src/content/docs/finance"
     create: true
     slug: "{{slug}}"
     sortable_fields: ["title", "date", "order"]
@@ -64,7 +55,7 @@ collections:
 
   - name: "devops"
     label: "DevOps"
-    folder: "src/content/docs/devops"
+    folder: "astro-wiki/src/content/docs/devops"
     create: true
     slug: "{{slug}}"
     sortable_fields: ["title", "date", "order"]
@@ -79,7 +70,7 @@ collections:
 
   - name: "tools"
     label: "Tools"
-    folder: "src/content/docs/tools"
+    folder: "astro-wiki/src/content/docs/tools"
     create: true
     slug: "{{slug}}"
     sortable_fields: ["title", "date", "order"]
