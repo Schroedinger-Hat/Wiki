@@ -1,0 +1,301 @@
+/* Schrödinger Hat Wiki Custom Styles - Official Branding */
+
+:root {
+  /* Schrödinger Hat Official Brand Colors from Press Kit */
+  --sh-primary-red: #EE0000;
+  --sh-primary-black: #000000;
+  --sh-primary-white: #FFFFFF;
+  
+  /* Additional brand colors */
+  --sh-red-light: #ff3333;
+  --sh-red-dark: #cc0000;
+  --sh-gray-50: #f8fafc;
+  --sh-gray-100: #f1f5f9;
+  --sh-gray-200: #e2e8f0;
+  --sh-gray-300: #cbd5e1;
+  --sh-gray-400: #94a3b8;
+  --sh-gray-500: #64748b;
+  --sh-gray-600: #475569;
+  --sh-gray-700: #334155;
+  --sh-gray-800: #1e293b;
+  --sh-gray-900: #0f172a;
+  
+  /* Typography from Press Kit */
+  --sh-font-headings: 'Lexend', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --sh-font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --sh-font-mono: 'JetBrains Mono', 'Fira Code', 'Monaco', 'Consolas', monospace;
+}
+
+/* Global Styles */
+body {
+  font-family: var(--sh-font-body);
+  color: var(--sh-primary-black);
+  background-color: var(--sh-primary-white);
+}
+
+/* Header Customization */
+.sl-header {
+  background: var(--sh-primary-red);
+  border-bottom: 1px solid var(--sh-primary-black);
+}
+
+.sl-header .sl-nav {
+  color: var(--sh-primary-white);
+}
+
+.sl-header .sl-nav a {
+  color: var(--sh-primary-white);
+  font-weight: 500;
+}
+
+.sl-header .sl-nav a:hover {
+  color: var(--sh-gray-100);
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Logo Styling */
+.sl-header .sl-nav .sl-nav-logo {
+  font-family: var(--sh-font-headings);
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+/* Sidebar Customization */
+.sl-sidebar {
+  background-color: var(--sh-primary-white);
+  border-right: 1px solid var(--sh-gray-200);
+}
+
+.sl-sidebar .sl-sidebar-nav {
+  background-color: var(--sh-gray-50);
+}
+
+.sl-sidebar .sl-sidebar-nav a {
+  color: var(--sh-gray-700);
+  border-radius: 0.5rem;
+  margin: 0.125rem 0.5rem;
+  padding: 0.5rem 0.75rem;
+  transition: all 0.2s ease;
+}
+
+.sl-sidebar .sl-sidebar-nav a:hover {
+  background-color: var(--sh-primary-red);
+  color: var(--sh-primary-white);
+  text-decoration: none;
+}
+
+.sl-sidebar .sl-sidebar-nav a[aria-current="page"] {
+  background-color: var(--sh-primary-red);
+  color: var(--sh-primary-white);
+  font-weight: 600;
+}
+
+/* Content Area */
+.sl-content {
+  background-color: var(--sh-primary-white);
+}
+
+/* Typography */
+.sl-content h1 {
+  font-family: var(--sh-font-headings);
+  color: var(--sh-primary-black);
+  border-bottom: 2px solid var(--sh-primary-red);
+  padding-bottom: 0.5rem;
+}
+
+.sl-content h2 {
+  font-family: var(--sh-font-headings);
+  color: var(--sh-primary-black);
+  border-bottom: 1px solid var(--sh-gray-200);
+  padding-bottom: 0.25rem;
+}
+
+.sl-content h3 {
+  font-family: var(--sh-font-headings);
+  color: var(--sh-primary-black);
+}
+
+/* Links */
+.sl-content a {
+  color: var(--sh-primary-red);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.sl-content a:hover {
+  border-bottom-color: var(--sh-primary-red);
+}
+
+/* Code Blocks */
+.sl-content pre {
+  background-color: var(--sh-gray-900);
+  border: 1px solid var(--sh-gray-700);
+  border-radius: 0.5rem;
+}
+
+.sl-content code {
+  background-color: var(--sh-gray-100);
+  color: var(--sh-primary-black);
+  border: 1px solid var(--sh-gray-200);
+  border-radius: 0.25rem;
+  padding: 0.125rem 0.25rem;
+  font-family: var(--sh-font-mono);
+  font-size: 0.875rem;
+}
+
+/* Buttons */
+.sl-content .sl-button {
+  background-color: var(--sh-primary-red);
+  color: var(--sh-primary-white);
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.sl-content .sl-button:hover {
+  background-color: var(--sh-red-dark);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(238, 0, 0, 0.3);
+}
+
+/* Cards */
+.sl-content .sl-card {
+  background-color: var(--sh-primary-white);
+  border: 1px solid var(--sh-gray-200);
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease;
+}
+
+.sl-content .sl-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+  border-color: var(--sh-primary-red);
+}
+
+/* Search */
+.sl-search {
+  background-color: var(--sh-primary-white);
+  border: 1px solid var(--sh-gray-200);
+  border-radius: 0.5rem;
+}
+
+.sl-search input {
+  color: var(--sh-primary-black);
+}
+
+.sl-search input::placeholder {
+  color: var(--sh-gray-400);
+}
+
+/* Footer */
+.sl-footer {
+  background-color: var(--sh-primary-black);
+  color: var(--sh-primary-white);
+  border-top: 1px solid var(--sh-gray-700);
+}
+
+.sl-footer a {
+  color: var(--sh-gray-300);
+}
+
+.sl-footer a:hover {
+  color: var(--sh-primary-white);
+}
+
+/* Social Links */
+.sl-social {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.sl-social a {
+  color: var(--sh-gray-600);
+  transition: color 0.2s ease;
+}
+
+.sl-social a:hover {
+  color: var(--sh-primary-red);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .sl-sidebar {
+    background-color: var(--sh-primary-white);
+  }
+  
+  .sl-header {
+    background: var(--sh-primary-red);
+  }
+}
+
+/* Custom Components */
+.sh-badge {
+  display: inline-block;
+  background-color: var(--sh-primary-red);
+  color: var(--sh-primary-white);
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.sh-badge.success {
+  background-color: var(--sh-gray-600);
+}
+
+.sh-badge.warning {
+  background-color: var(--sh-gray-500);
+}
+
+.sh-badge.error {
+  background-color: var(--sh-primary-red);
+}
+
+/* Schrödinger Hat specific styling */
+.sh-hero {
+  background: var(--sh-primary-red);
+  color: var(--sh-primary-white);
+  padding: 3rem 0;
+  text-align: center;
+}
+
+.sh-hero h1 {
+  font-family: var(--sh-font-headings);
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  border: none;
+}
+
+.sh-hero p {
+  font-family: var(--sh-font-body);
+  font-size: 1.25rem;
+  opacity: 0.9;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Press Kit Quote Styling */
+.sh-quote {
+  background-color: var(--sh-gray-50);
+  border-left: 4px solid var(--sh-primary-red);
+  padding: 1.5rem;
+  margin: 2rem 0;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--sh-gray-700);
+}
+
+.sh-quote strong {
+  color: var(--sh-primary-black);
+  font-weight: 600;
+} 
