@@ -17,3 +17,10 @@ Per gestire i rilasci e gli aggiornamenti delle applicazioni all'interno del clu
 È stato quindi creato un repository GitHub privato (<https://github.com/Schroedinger-Hat/sh-cluster-fleet>) nel quale bisognerà andare a inserire le dichiarazioni delle applicazioni e servizi.
 
 Si rimanda al README.md presente nella pagina del repository per ogni considerazione.
+
+## Grafana - WIP
+
+Accedi al vault e cerca la nota: .kubeconfig - SH server
+Troverai il kubeconfig e la password per accedere a grafana oltre al comando per fare il port forwarding in locale.
+
+In futuro ci sarà un accesso pubblico tramite SSO
