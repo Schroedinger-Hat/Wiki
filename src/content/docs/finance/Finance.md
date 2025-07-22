@@ -1,10 +1,10 @@
 ---
-title: "IBAN *preferred*"
+title: Getting paid | Farsi pagare | IBAN | Billing
 description: ""
 tags: []
 draft: false
 order: 2
-slug: "finance"
+slug: finance
 ---
 
 ```
