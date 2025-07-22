@@ -1,10 +1,10 @@
 ---
-title: "Header Documents"
+title: Intestazione Documenti | Documents Header
 description: ""
 tags: []
 draft: false
 order: 4
-slug: "HeaderDocs"
+slug: HeaderDocs
 ---
 
 Salvo casi particolari, l’intestazione dell’associazione va sempre indicata nella seguente forma
