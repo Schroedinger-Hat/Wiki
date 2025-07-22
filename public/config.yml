@@ -10,10 +10,10 @@ media_folder: "src/assets/images"
 public_folder: "/src/assets/images"
 
 # Site URL for preview (will be auto-detected in production)
-site_url: http://localhost:4321
+site_url: https://schroddy.netlify.app
 
 # Display URL for the CMS (will be auto-detected in production)
-display_url: http://localhost:4321
+display_url: https://schroddy.netlify.app
 
 # Collections configuration
 collections:
