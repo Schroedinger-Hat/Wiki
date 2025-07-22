@@ -1,71 +1,27 @@
-# Wiki
+# Schrödinger Hat APS Wiki
 
-## General
+A modern documentation site built with Astro Starlight and Decap CMS for the Schrödinger Hat community. This wiki serves as the central knowledge base for our non-profit organization dedicated to making open source truly open.
 
-- [Onboarding](General/Onboarding.md)
-- [How we work](General/HowWeWork.md)
+[website: schroddy.netlify.app](https://schroddy.netlify.app/) *TODO: https://github.com/Schroedinger-Hat/Wiki/issues/45*
 
-## Association/Associazione/NonProfit
+***You can find the same documentation here on github [DocsIndex.md](DocsIndex.md)***
 
-- [Intestazione Documenti | Documents Header](Association/HeaderDocs.md)
-- [Marketing](Association/Marketing.md)
-- [Firma | Delega | Carta Intestata](Association/Firma.md)
-- [Accounts](Association/Accounts.md)
-- Google Workspace
-- Pec
+## Community
 
-## Ecommerce
+Schrödinger Hat is a non-profit organization dedicated to making open source truly open. We believe in:
 
-- Printful
-- Shopify
+- **Community First**: Building inclusive, welcoming communities
+- **Open Knowledge**: Sharing knowledge freely and openly
+- **Innovation**: Pushing the boundaries of what's possible
+- **Education**: Empowering people through technology
 
-## Finance
+## Connect With Us
 
-- [Getting paid | Farsi pagare | IBAN | Billing](Finance/Finance.md)
-- Qonto
-- OpenCollective
-- PayPal
+- **Website**: [schroedinger-hat.org](https://schroedinger-hat.org)
+- **GitHub**: [github.com/schroedinger-hat](https://github.com/schroedinger-hat)
+- **YouTube**: [@schroedingerhat](https://www.youtube.com/@schroedingerhat)
+- **LinkedIn**: [Schrödinger Hat](https://www.linkedin.com/company/schroedinger-hat)
 
-## Soci
+## License
 
-- Peoplez
-
-## Events
-
-- Eventbrite
-- Sessionize
-
-## Development/Operations/Cloud
-
-- [Hetzner](DevOps/Hetzner.md)
-- Netlify
-- Cloudfare
-- OVH
-- Vercel
-- DockerHub
-- Github
-- PyPi
-- Resend
-- Supabase
-
-## Social
-
-- Emailoctopus
-- Instagram
-- Linktree
-- Reddit
-- Spotify Podcast
-- Treedom
-- Twitch
-- Twitter/X
-
-## Tools
-
-- [Trello](Tools/Trello.md)
-- Figma
-- Flickr
-
-## Security
-
-- Bitwarden
-
+This project is licensed under the MIT License.
