@@ -1,10 +1,10 @@
 ---
-title: "Firma"
+title: Firma | Delega | Carta Intestata
 description: ""
 tags: []
 draft: false
 order: 3
-slug: "Firma"
+slug: Firma
 ---
 
 Solo il Presidente (Gabriele Puliti) puo’ firmare documenti che riportano l’intestazione dell’associazione.  
