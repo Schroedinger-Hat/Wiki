@@ -3,6 +3,7 @@ title: Tools Documentation
 description: Tool documentation, usage guidelines, and best practices for Schrödinger Hat
 order: 1
 slug: tools
+draft: false
 ---
 
 # Tools Documentation

@@ -3,6 +3,7 @@ title: DevOps Documentation
 description: Infrastructure documentation, cloud services, and development tools for Schrödinger Hat
 order: 1
 slug: devops
+draft: false
 ---
 
 Welcome to the DevOps section of the Schrödinger Hat Wiki. Here you'll find documentation related to our infrastructure, cloud services, and development tools.
