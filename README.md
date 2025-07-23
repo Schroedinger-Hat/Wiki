@@ -2,7 +2,7 @@
 
 A modern documentation site built with Astro Starlight and Decap CMS for the Schrödinger Hat community. This wiki serves as the central knowledge base for our non-profit organization dedicated to making open source truly open.
 
-[website: schroddy.netlify.app](https://schroddy.netlify.app/) *TODO: https://github.com/Schroedinger-Hat/Wiki/issues/45*
+[website: schroddy.netlify.app](https://wiki.schroedinger-hat.org)
 
 ***You can find the same documentation here on github [DocsIndex.md](DocsIndex.md)***
 
