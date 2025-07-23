@@ -9,43 +9,43 @@ slug: "Trello"
 
 Link: https://trello.com/w/schroedingerhataps
 
-## Panoramica Generale
-Trello è il nostro strumento principale per il project management. Qui sono organizzate tutte le **board dei progetti operativi**, ciascuna contenente i task relativi a un progetto specifico.
+## General Overview
+Trello is our main tool for project management. Here are organized all the **operational project boards**, each containing tasks related to a specific project.
 
-### Board Operative
-Abbiamo numerose board dedicate a progetti operativi, come: [**SH Local Group**](https://trello.com/b/o3qQISuu/sh-local-groups) o [**Association**](https://trello.com/b/jGv9hC6C/association). Queste board sono utilizzate per gestire i task e le attività quotidiane dell'associazione. Ogni board ha un**obiettivo** specifico, che guidano le attività.
+### Operational Boards
+We have numerous boards dedicated to operational projects, such as: [**SH Local Group**](https://trello.com/b/o3qQISuu/sh-local-groups) or [**Association**](https://trello.com/b/jGv9hC6C/association). These boards are used to manage tasks and daily activities of the association. Each board has a specific **objective** that guides the activities.
 
-### Board "Intake"
-La **board "Intake"** è il punto in cui chiunque può inserire idee o task da discutere. Man mano che gli altri task vengono completati, le idee dalla board "Intake" vengono spostate nelle board operative per essere sviluppate. Questa board è fondamentale per raccogliere e valutare nuove proposte.
+### "Intake" Board
+The **"Intake" board** is the point where anyone can insert ideas or tasks to discuss. As other tasks are completed, ideas from the "Intake" board are moved to operational boards to be developed. This board is fundamental for collecting and evaluating new proposals.
 
-### Progetti di Tipo "Codice"
-Alcune board sono dedicate a progetti con un progetto codice (solitamente su [GitHub](https://github.com/schroedinger-hat)) con una **vision** ben definita, che possono portare un valore significativo a lungo termine. Progetti come "browser" o "daje" al momento non hanno una vision futura o una prospettiva a lungo termine quindi non sono stati inseriti in questa categoria. Questi progetti sono gestiti in modo diverso e non seguono le stesse procedure delle board operative.
+### "Code" Type Projects
+Some boards are dedicated to projects with a code project (usually on [GitHub](https://github.com/schroedinger-hat)) with a well-defined **vision** that can bring significant long-term value. Projects like "browser" or "daje" currently don't have a future vision or long-term perspective, so they haven't been included in this category. These projects are managed differently and don't follow the same procedures as operational boards.
 
-## Come leggere una board
+## How to Read a Board
 
 ### Board
 
-Prendiamo come esempio la board "Association". È strutturata secondo il modello **Kanban**, con le seguenti liste:
+Let's take the "Association" board as an example. It's structured according to the **Kanban** model, with the following lists:
 - **To Do**
 - **Doing**
 - **Feedback**
 - **Done**
 
-### Lista "To Do"
-Tutti i task operativi iniziano qui. Il numero massimo di task in questa lista è fissato a **15** per evitare sovraccarico e mantenere un flusso di lavoro gestibile.
+### "To Do" List
+All operational tasks start here. The maximum number of tasks in this list is set to **15** to avoid overload and maintain a manageable workflow.
 
-### Lista "Doing"
-I task in lavorazione restano qui. Anche se non hanno una scadenza precisa, vengono periodicamente controllati per assicurarsi che non rimangano **bloccati** o inattivi troppo a lungo.
+### "Doing" List
+Tasks in progress remain here. Even if they don't have a precise deadline, they are periodically checked to ensure they don't remain **blocked** or inactive for too long.
 
-### Lista "Feedback"
-Se un task necessita di un riscontro dalla community, viene spostato nella lista "Feedback". Qui può restare in attesa finché non arriva un feedback adeguato oppure richiede un follow-up.
+### "Feedback" List
+If a task needs feedback from the community, it's moved to the "Feedback" list. Here it can remain waiting until adequate feedback arrives or requires follow-up.
 
-### Lista "Done"
-Una volta completato, il task viene spostato nella lista "Done". È importante aggiungere un commento finale che descriva cosa è stato fatto, per mantenere traccia delle attività concluse.
+### "Done" List
+Once completed, the task is moved to the "Done" list. It's important to add a final comment describing what was done to maintain a record of completed activities.
 
-### Procedura per i Task
-1. **Lettura e Comprensione**: Quando un task viene scelto, si legge la descrizione. Se qualcosa non è chiaro, si può lasciare un commento per chiedere chiarimenti.
-2. **Assegnazione**: Se il task è compreso, si può assegnarsi la card, diventando l'**owner** del task.
-3. **Spostamento a Doing**: Una volta assegnato, il task viene spostato dalla lista "To Do" a "Doing".
-4. **Aggiornamento dello Stato**: Durante il lavoro, è importante aggiornare lo stato del task. Se ci sono problemi o si ha bisogno di aiuto, è possibile lasciare un commento per chiedere supporto.
-5. **Completamento**: Una volta terminato il task, si sposta la card nella lista "Done" e si aggiunge un commento finale per descrivere cosa è stato fatto.
+### Task Procedure
+1. **Reading and Understanding**: When a task is chosen, read the description. If something is unclear, you can leave a comment to ask for clarification.
+2. **Assignment**: If the task is understood, you can assign yourself the card, becoming the **owner** of the task.
+3. **Move to Doing**: Once assigned, the task is moved from the "To Do" list to "Doing".
+4. **Status Update**: During work, it's important to update the task status. If there are problems or you need help, you can leave a comment to ask for support.
+5. **Completion**: Once the task is finished, move the card to the "Done" list and add a final comment to describe what was done.

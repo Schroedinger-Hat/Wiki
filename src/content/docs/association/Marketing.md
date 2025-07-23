@@ -1,5 +1,5 @@
 ---
-title: "Marketing / Interazione col pubblico"
+title: "Marketing / Public Interaction"
 description: ""
 tags: []
 draft: false
@@ -7,11 +7,11 @@ order: 5
 slug: "Marketing"
 ---
 
-E' possibile usare `Schroedinger Hat` senza la parte di `APS` finale.  
+It's possible to use `Schroedinger Hat` without the `APS` part at the end.  
 
-Tecnicamente al pubblico possiamo presentarci con qualsiasi nome e forma vogliamo, a patto che nei dati aziendali si usi la stessa intestazione dichiarata nel blocco "Servizi Digitali".  
+Technically, we can present ourselves to the public with any name and form we want, provided that in the business data we use the same header declared in the "Digital Services" block.  
 
-Se nel comunicare col pubblico c'e' la possibilita' effettuare la vendita di beni o servizi va anche sempra indicata la P.IVA `IT07355400487` (vedi [HeaderDocs.md](HeaderDocs.md)).
-* Non serve per: "Questo e' un evento gratuito ma se ti piace puoi donare/diventare socio"
-* Serve per: "Nell'acquistare questo biglietto gratuito puoi anche acquistare una maglietta"
-* Serve per: "Tutto il sito, per star sicuri e non dover pensare a quale pagina deve avere la PIVA e quali no"
+If in communicating with the public there's the possibility of selling goods or services, the VAT number `IT07355400487` should also always be indicated (see [HeaderDocs.md](HeaderDocs.md)).
+* Not needed for: "This is a free event but if you like it you can donate/become a member"
+* Needed for: "When purchasing this free ticket you can also purchase a t-shirt"
+* Needed for: "The entire website, to be safe and not have to think about which page should have the VAT number and which ones shouldn't"

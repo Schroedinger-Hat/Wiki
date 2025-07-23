@@ -1,5 +1,5 @@
 ---
-title: "Configurazione VPS"
+title: "VPS Configuration"
 description: ""
 tags: []
 draft: false
@@ -7,27 +7,27 @@ order: 2
 slug: "Hetzner"
 ---
 
-La macchina dispone di due account principali: `root`e `sh`.
+The machine has two main accounts: `root` and `sh`.
 
-Il primo deve essere usato solo in casi di estrema necessità. Mentre, il secondo è l'account ufficiale sul quale accedere e gestire il server. Entrambi gli account sono sudoers.
+The first should only be used in cases of extreme necessity. While the second is the official account to access and manage the server. Both accounts are sudoers.
 
-Per accedere agli account sono state create due chiavi SSH con i quali accedere senza uso di una password.
+To access the accounts, two SSH keys have been created to access without using a password.
 
-Su account sh al momento è stata avviata un'istanza di K3s, un Kubernetes lightweight di solito usato su server monoistanza o macchine piccole. Il procedimento è stato eseguito tramite il progetto [K3sup](https://github.com/alexellis/k3sup) che permette una configurazione e veloce.
+On the sh account, a K3s instance has been started, a lightweight Kubernetes usually used on single-instance servers or small machines. The process was executed through the [K3sup](https://github.com/alexellis/k3sup) project which allows for quick and easy configuration.
 
 ## Kubernetes
 
 ### Flux
 
-Per gestire i rilasci e gli aggiornamenti delle applicazioni all'interno del cluster si è deciso di adottare un approccio GitOps mediante l'utilizzo di Flux, un tool appartenente al landscape CNCF per la gestione GitOps di cluster Kubernetes.
+To manage releases and updates of applications within the cluster, it was decided to adopt a GitOps approach using Flux, a tool belonging to the CNCF landscape for GitOps management of Kubernetes clusters.
 
-È stato quindi creato un repository GitHub privato (<https://github.com/Schroedinger-Hat/sh-cluster-fleet>) nel quale bisognerà andare a inserire le dichiarazioni delle applicazioni e servizi.
+A private GitHub repository (<https://github.com/Schroedinger-Hat/sh-cluster-fleet>) was therefore created where the declarations of applications and services will need to be inserted.
 
-Si rimanda al README.md presente nella pagina del repository per ogni considerazione.
+Please refer to the README.md present on the repository page for any considerations.
 
 ## Grafana - WIP
 
-Accedi al vault e cerca la nota: .kubeconfig - SH server
-Troverai il kubeconfig e la password per accedere a grafana oltre al comando per fare il port forwarding in locale.
+Access the vault and search for the note: .kubeconfig - SH server
+You'll find the kubeconfig and password to access grafana along with the command to do port forwarding locally.
 
-In futuro ci sarà un accesso pubblico tramite SSO
+In the future, there will be public access via SSO

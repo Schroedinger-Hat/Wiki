@@ -1,5 +1,5 @@
 ---
-title: Intestazione Documenti | Documents Header
+title: Document Headers | Documents Header
 description: ""
 tags: []
 draft: false
@@ -7,27 +7,27 @@ order: 4
 slug: HeaderDocs
 ---
 
-Salvo casi particolari, l’intestazione dell’associazione va sempre indicata nella seguente forma
+Except in special cases, the association's header should always be indicated in the following form:
 
     SCHROEDINGER HAT APS
     Via Pino Arpioni 1, Pelago (FI)
     07355400487 IT07355400487
 
-Questo da intendersi su qualsiasi documento ufficiale prodotto o ricevuto dall’associazione
+This is to be understood on any official document produced or received by the association
 
-# Intestazione Servizi Digitali
+# Digital Services Header
 
-Quando si fa signup per un servizio se e’ possibile indicare un account di tipo aziendale va usato quello.
-Il resto dei dati da usare sono
+When signing up for a service, if it's possible to indicate a business-type account, use that.
+The rest of the data to use are:
 
-| Campo | Valore |
+| Field | Value |
 | --- | --- |
-| Nome azienda                               | SCHROEDINGER HAT APS |
-| Nome / Cognome                             | Gabriele Puliti |
-| Alternativamente: “Rappresentante Legale”  | Gabriele Puliti |
-| Indirizzo                                  | Via Pino Arpioni 1 |
-| Cittá                                      | Pelago |
-| Provincia                                  | FI |
-| CAP                                        | 50060 |
-| CF / Social Security Code                  | 07355400487 |
-| PIVA / Tax Code                            | IT07355400487 |
+| Company Name                               | SCHROEDINGER HAT APS |
+| Name / Surname                             | Gabriele Puliti |
+| Alternatively: "Legal Representative"  | Gabriele Puliti |
+| Address                                  | Via Pino Arpioni 1 |
+| City                                      | Pelago |
+| Province                                  | FI |
+| Postal Code                                        | 50060 |
+| Tax Code / Social Security Code                  | 07355400487 |
+| VAT Number / Tax Code                            | IT07355400487 |

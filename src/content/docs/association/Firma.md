@@ -1,5 +1,5 @@
 ---
-title: Firma | Delega | Carta Intestata
+title: Signature | Delegation | Letterhead
 description: ""
 tags: []
 draft: false
@@ -7,28 +7,26 @@ order: 3
 slug: Firma
 ---
 
-Solo il Presidente (Gabriele Puliti) puo’ firmare documenti che riportano l’intestazione dell’associazione.  
-Se la firma e’ con delega chi firma deve specificare, leggibile sotto la firma “Delegato da Gabriele Puliti”
+Only the President (Gabriele Puliti) can sign documents that bear the association's letterhead.  
+If the signature is by delegation, the person signing must specify, legibly under the signature "Delegated by Gabriele Puliti"
 
+# Delegation
 
-# Delega
+The President can delegate other people to sign provided that:
+* They are founding members of the association
+* They do not appear, directly or indirectly, on both sides of the document
+    * E.g.: The association adopts a cat from a shelter managed by Mattia, Mattia CANNOT be delegated
+* The signature does not concern financial operations (approval of budgets, bank account management)
 
-Il Presidente puo’ delegare altre persone alla firma a patto che:
-* Sia soci fondatori dell’associazione
-* Non compaiano, direttamente o indirettamente da entrambi i lati del documento
-    * Es: L’associazione adotta un Gatto da un rifugio gestito da Mattia, Mattia NON puo’ esser delegato
-* La firma non riguardi operazioni finanziarie (approvazione bilanci, gestione conto corrente)
+For each signature, a delegation is required. Find the template on our drive.  
+The delegation is a writing between two private individuals (president and delegate) and must be kept by the two private individuals. The association does not need to receive or manage the document.
 
-Per ogni firma serve una delega, trovare il template sul nostro drive.  
-La delega e’ una scrittura tra due privati (presidente e delegato) e va conservata dai due privati, non serve che l’associazione riceva o gestisca il documento
+# Letterhead
 
+Any document/PDF sent by the association that makes any proposal of a contractual/financial nature must be sent on letterhead. Find the template in the `templates` folder.  
 
-# Carta Intestata
+Emails do not require letterhead.  
 
-Qualsiasi documento/pdf inviato dall’associazione che fa una qualche proposta di carattere contrattuale/finanziario va inviato su carta intestata, trovate il template nella cartella `templates`.  
+Using letterhead is equivalent to speaking on behalf of the association and not us as private individuals.  
 
-Le mail non necessitano di carta intestata.  
-
-Usare carta intestata equivale a parlare per conto dell’associazione e non noi come privati.  
-
-I soci fondatori dovrebbero essere sempre notificati di comunicazioni inviate in carta intestata
+Founding members should always be notified of communications sent on letterhead.

@@ -7,37 +7,37 @@ order: 3
 slug: "Onboarding"
 ---
 
-Il processo di ingresso di un nuovo volontario e' molto importante e serve per inglobarlo in schroedinger hat.
+The entry process for a new volunteer is very important and serves to integrate them into Schrödinger Hat.
 
-Solitamente i nuovi volontari derivano da call for volunteers e il processo da seguire a partire da una richiesta e' il seguente:
+Usually, new volunteers come from call for volunteers and the process to follow starting from a request is as follows:
 
-- la persona che vuole diventare un volontario/a manda una richiesta, puo' essere fatta tramite mail o a voce con uno degli associati
-- viene fissata una call o chiacchierata in modo da capire se c'e' intesa e possibilita' di collaborazione
-  - fare inizialmente una breve introduzione di sh
-  - spiegare qual e' il nostro metodo di lavoro: discord, task plane, tempo da dedicare, etc.etc.
-    - magari anche facendo uno share screen condividendo la board
-  - far presentare il/la volontario/a
-  - a questo punto capire se c'e' modo di integrarlo in qualche task della board e presentare il task/problema; andare a memoria senza perdere troppo tempo in modo da evitare di perdere l'attenzione della persona. Se non viene in mente niente sul momento postporre l'assegnazione di task, ma fare comunque esempi.
-  - chiedere se ha domande
-  - se la discussione e' andata a buon fine e la persona e' ancora interessata chiedere se vuole ricevere comunicazioni in mail riguardo le attivita' (e.g. inviti a refinement o altro), chiedere l'handle discord per aggiungere il role volunteers (fare una breve intro sul cosa trova nel canale)
-- Se la conversazione e' andata a buon fine fare welcome in volunteers
-- se task e' gia' stato assegnato fare followup quando necessario sulla base del tempo che aveva indicato di avere a disposizione (30min a settimana direi di fare followup ogni 2 settimane indicativamente)
+- the person who wants to become a volunteer sends a request, which can be made via email or verbally with one of the associates
+- a call or chat is scheduled to understand if there's mutual understanding and possibility of collaboration
+  - initially make a brief introduction of SH
+  - explain what our working method is: discord, task planning, time to dedicate, etc.
+    - maybe also doing a screen share showing the board
+  - have the volunteer introduce themselves
+  - at this point understand if there's a way to integrate them into some task on the board and present the task/problem; go from memory without spending too much time to avoid losing the person's attention. If nothing comes to mind at the moment, postpone task assignment, but still give examples.
+  - ask if they have questions
+  - if the discussion went well and the person is still interested, ask if they want to receive email communications about activities (e.g., invitations to refinements or other), ask for their Discord handle to add the volunteers role (give a brief intro on what they'll find in the channel)
+- If the conversation went well, do welcome in volunteers
+- if task is already assigned, do follow-up when necessary based on the time they indicated they had available (30min a week I'd say do follow-up every 2 weeks approximately)
 - WIP
 
-## Nuovo socio
+## New Member
 
-- aggiornare lista soci
-- ruolo discord 'associates'
-- aggiungere alla mailinglist 'associates'
+- update member list
+- discord role 'associates'
+- add to 'associates' mailing list
 
-## Associato richiede mail di dominio
+## Associate Requests Domain Email
 
-- modificare mail di contatto su contacts.google.com
-- modificare mail di contatto nei gruppi volunteers e associates con la nuova mail
+- modify contact email on contacts.google.com
+- modify contact email in volunteers and associates groups with the new email
 
-### firma mail
+### Email Signature
 
-<nome>
+<name>
 
 Schrödinger Hat APS
 
@@ -45,4 +45,4 @@ Non Profit Organisation
 
 We Make Open Source really open!
 
-<logo preferito (<https://schroedinger-hat.org/association/press-kit>)>
+<preferred logo (<https://schroedinger-hat.org/association/press-kit>)>

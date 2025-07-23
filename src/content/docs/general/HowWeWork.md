@@ -7,61 +7,61 @@ order: 2
 slug: "HowWeWork"
 ---
 
-## Refinements | Meeting settimanali | Riunioni settimanali
+## Refinements | Weekly Meetings
 
-I refinement sono incontri di 30 minuti in cui si discute la situazione dei progetti in corso, si analizzano le nuove idee e si definiscono le priorità.
+Refinements are 30-minute meetings where we discuss the status of ongoing projects, analyze new ideas, and define priorities.
 
 ***Who?***
-Ogni volontario puo' partecipare, non ci sono obblighi di presenza e obblighi di intervento.
+Every volunteer can participate, there are no attendance obligations or intervention requirements.
 
 ***What?***
-Nei giorni precedenti al refinement, ogni volontario puo' aggiungere un argomento di discussione in modo da stabilire un ODG (Ordine del Giorno) condiviso. Se non ci sono argomenti proposti si procede con un primo giro di verfica blockers, check della situazione di sviluppo del [progetto principale](#Progetto-principale-8020) e dei progetti in corso, discussione di eventuali problemi o difficoltà riscontrate, aggiornamenti sui progetti in corso, discussione di nuove idee e priorità, assegnazione di eventuali task.
+In the days leading up to the refinement, each volunteer can add a discussion topic to establish a shared agenda. If no topics are proposed, we proceed with a first round of blocker verification, checking the development status of the [main project](#Main-Project-8020) and ongoing projects, discussing any problems or difficulties encountered, updates on ongoing projects, discussing new ideas and priorities, and assigning any tasks.
 
 ***When?***
-Solitamente si svolgono il mercoledi' dalle 18:01 alle 18:29, ma possono essere spostati in altri giorni della settimana se necessario.
+They usually take place on Wednesdays from 18:01 to 18:29, but can be moved to other days of the week if necessary.
 
 ***Where?***
-Si svolgono su [Discord](https://discord.schroedinger-hat.org) nella stanza `#volunteers`, se non vedi la stanza manda un messaggio a `@founders` nel canale pubblico `#general` o in privato a uno dei fondatori o manda una mail a `hello@schroedinger-hat.org`.
+They take place on [Discord](https://discord.schroedinger-hat.org) in the `#volunteers` room. If you don't see the room, send a message to `@founders` in the public `#general` channel or privately to one of the founders, or send an email to `hello@schroedinger-hat.org`.
 
 ***Why?***
-Per tenere traccia dei progetti in corso, delle idee e delle priorità, per evitare di perdere tempo che non abbiamo e per garantire che tutti i volontari siano aggiornati sulla situazione attuale.
+To keep track of ongoing projects, ideas, and priorities, to avoid wasting time we don't have, and to ensure all volunteers are updated on the current situation.
 
-## Progetto principale | 80/20
+## Main Project | 80/20
 
-Ogni quarto di anno viene scelto un progetto principale che diventa il focus dell'associazione per i successivi tre mesi.
+Every quarter, a main project is chosen that becomes the association's focus for the next three months.
 
-## Evitare single points of failure
+## Avoid Single Points of Failure
 
-Ogni progetto con un solo maintainer deve avere un secondo (o anche un terzo) come backup.  
-Se non viene trovato, il progetto viene sospeso per almeno 30 giorni.
+Every project with only one maintainer must have a second (or even a third) as backup.  
+If one is not found, the project is suspended for at least 30 days.
 
-## Documentazione onboarding per ogni progetto
+## Onboarding Documentation for Every Project
 
-Ogni progetto, tecnico o no, deve avere una documentazione introduttiva basata sulle 5W:
-- Who: chi sono i referenti
-- What: cosa fa il progetto
-- When: quando ci si incontra
-- Where: dove si trova la documentazione
-- Why: perché esiste il progetto
-(questa è piu' una traccia di esempio, potete modificarla al bisogno).
-Questa documentazione deve essere scritta in modo da poter essere letta da chiunque, anche da chi non ha mai sentito parlare del progetto. 
+Every project, technical or not, must have introductory documentation based on the 5W's:
+- Who: who are the contacts
+- What: what the project does
+- When: when we meet
+- Where: where the documentation is located
+- Why: why the project exists
+(this is more of an example outline, you can modify it as needed).
+This documentation must be written so that it can be read by anyone, even by those who have never heard of the project.
 
-## Trello come strumento di Project Management
+## Trello as Project Management Tool
 
-Tutti i progetti rilevanti per l’associazione devono essere tracciati su Trello. Gli altri progetti possono essere gestiti tramite github issues o altri strumenti, ma devono essere comunque documentati.
+All projects relevant to the association must be tracked on Trello. Other projects can be managed through GitHub issues or other tools, but they must still be documented.
 
-## Carico equo sui membri
+## Fair Load on Members
 
-Ogni persona può essere assegnata a massimo **2 progetti importanti** contemporaneamente. L’importanza viene definita in fase di analisi o successivi refinement.
+Each person can be assigned to a maximum of **2 important projects** simultaneously. Importance is defined during analysis or subsequent refinements.
 
-## Metriche specifiche per progetto
+## Specific Metrics for Each Project
 
-Ogni progetto deve avere metriche ad hock per monitorare efficacia, avanzamento e impatto. Queste metriche devono essere definite in fase di analisi o successivi refinement e devono essere monitorate.
+Every project must have ad-hoc metrics to monitor effectiveness, progress, and impact. These metrics must be defined during analysis or subsequent refinements and must be monitored.
 
-## Materiale di comunicazione multiformato
+## Multi-format Communication Material
 
-E' fondamentale avere materiale di comunicazione in diversi formati per raggiungere un pubblico piu' ampio. PEr questo e' fondamentale mantenera aggiornati i canali social e il sito web, e creare contenuti in diversi formati (testi, video, grafiche) per spiegare i progetti e le attività dell'associazione:
-- cos'è Schrödinger Hat
-- perché contribuire è utile
-- cosa si può aspettare un contributor
+It's essential to have communication material in different formats to reach a wider audience. For this reason, it's fundamental to keep social channels and the website updated, and create content in different formats (texts, videos, graphics) to explain the projects and activities of the association:
+- what Schrödinger Hat is
+- why contributing is useful
+- what a contributor can expect
 - More...

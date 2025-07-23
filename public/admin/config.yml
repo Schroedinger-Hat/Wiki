@@ -1,0 +1,93 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Enable local backend for development
+local_backend: true
+
+# Media folder configuration
+media_folder: "src/assets/images"
+public_folder: "/src/assets/images"
+
+# Site URL for preview (will be auto-detected in production)
+site_url: http://localhost:4321
+
+# Display URL for the CMS (will be auto-detected in production)
+display_url: http://localhost:4321
+
+# Collections configuration
+collections:
+  - name: "general"
+    label: "General"
+    folder: "src/content/docs/general"
+    create: true
+    slug: "{{slug}}"
+    sortable_fields: ["title", "date", "order"]
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Order", name: "order", widget: "number", value_type: "int", default: 0, hint: "Lower numbers appear first. Use 1 for index pages." }
+      - { label: "Custom Slug", name: "slug", widget: "string", required: false, hint: "Leave empty to auto-generate from title. Use 'index' for section overview pages." }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+
+  - name: "association"
+    label: "Association"
+    folder: "src/content/docs/association"
+    create: true
+    slug: "{{slug}}"
+    sortable_fields: ["title", "date", "order"]
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Order", name: "order", widget: "number", value_type: "int", default: 0, hint: "Lower numbers appear first. Use 1 for index pages." }
+      - { label: "Custom Slug", name: "slug", widget: "string", required: false, hint: "Leave empty to auto-generate from title. Use 'index' for section overview pages." }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+
+  - name: "finance"
+    label: "Finance"
+    folder: "src/content/docs/finance"
+    create: true
+    slug: "{{slug}}"
+    sortable_fields: ["title", "date", "order"]
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Order", name: "order", widget: "number", value_type: "int", default: 0, hint: "Lower numbers appear first. Use 1 for index pages." }
+      - { label: "Custom Slug", name: "slug", widget: "string", required: false, hint: "Leave empty to auto-generate from title. Use 'index' for section overview pages." }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+
+  - name: "devops"
+    label: "DevOps"
+    folder: "src/content/docs/devops"
+    create: true
+    slug: "{{slug}}"
+    sortable_fields: ["title", "date", "order"]
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Order", name: "order", widget: "number", value_type: "int", default: 0, hint: "Lower numbers appear first. Use 1 for index pages." }
+      - { label: "Custom Slug", name: "slug", widget: "string", required: false, hint: "Leave empty to auto-generate from title. Use 'index' for section overview pages." }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+
+  - name: "tools"
+    label: "Tools"
+    folder: "src/content/docs/tools"
+    create: true
+    slug: "{{slug}}"
+    sortable_fields: ["title", "date", "order"]
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Order", name: "order", widget: "number", value_type: "int", default: 0, hint: "Lower numbers appear first. Use 1 for index pages." }
+      - { label: "Custom Slug", name: "slug", widget: "string", required: false, hint: "Leave empty to auto-generate from title. Use 'index' for section overview pages." }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false } 

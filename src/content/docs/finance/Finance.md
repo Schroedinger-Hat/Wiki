@@ -27,11 +27,11 @@ OpenCollective: https://opencollective.com/schrodinger-hat
 
 # Billing
 
-Se nel servizio e’ possibile indicare una persona responsabile per il billing va usato
+If the service allows indicating a person responsible for billing, use:
 
-| Campo | Valore |
+| Field | Value |
 | --- | --- |
-| Nome / Cognome  |  Mattia Lobertini                         |
-| Email           | “billing@schroedinger-hat.org” |
+| Name / Surname  |  Mattia Lobertini                         |
+| Email           | "billing@schroedinger-hat.org" |
 
-Tutte le fatture ricevuta su una mail diversa da `billing@schroedinger-hat.org` vanno anche inoltrate a quell'email
+All invoices received on an email different from `billing@schroedinger-hat.org` should also be forwarded to that email
