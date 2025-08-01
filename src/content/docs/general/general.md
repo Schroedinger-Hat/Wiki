@@ -10,21 +10,21 @@ Welcome to the General section of the Schrödinger Hat Wiki. Here you'll find es
 
 ## 📋 Available Documents
 
-### [Onboarding](/general/onboarding/)
+### [Onboarding](/Onboarding/)
 
 Essential information for new members joining the Schrödinger Hat community. Learn about our values, processes, and how to get started.
 
-### [How We Work](/general/how-we-work/)
+### [How We Work](/HowWeWork/)
 
 Detailed procedures and guidelines for how our organization operates. Understand our workflows, decision-making processes, and communication channels.
 
-### [Testing](/general/testing/)
+### [Testing](/Testing/)
 
 Testing procedures and guidelines for our projects. Learn about our quality assurance processes and testing methodologies.
 
 ## 🚀 Getting Started
 
-If you're new to Schrödinger Hat, we recommend starting with the [Onboarding](/general/onboarding/) guide to understand our community and processes.
+If you're new to Schrödinger Hat, we recommend starting with the [Onboarding](/Onboarding/) guide to understand our community and processes.
 
 ## 📝 Contributing
 

@@ -11,16 +11,16 @@ Welcome to the Association section of the Schrödinger Hat Wiki. Here you'll fin
 
 ## 📋 Available Documents
 
-### [Document Headers](/association/header-docs/)
+### [Document Headers](/HeaderDocs/)
 Standard headers and templates for official documents. Learn about our document formatting standards and branding requirements.
 
-### [Marketing Guidelines](/association/marketing/)
+### [Marketing Guidelines](/Marketing/)
 Branding guidelines and marketing procedures. Understand how to represent Schrödinger Hat in communications and materials.
 
-### [Signature and Delegation](/association/firma/)
+### [Signature and Delegation](/Firma/)
 Information about document signing and delegation procedures. Learn about our legal processes and authorization workflows.
 
-### [Account Management](/association/accounts/)
+### [Account Management](/Accounts/)
 Guidelines for managing organizational accounts and access. Understand our account policies and security procedures.
 
 ## 🏢 Organizational Structure
