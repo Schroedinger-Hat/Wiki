@@ -12,7 +12,7 @@ Welcome to the Tools section of the Schrödinger Hat Wiki. Here you'll find docu
 
 ## 📋 Available Documents
 
-### [Trello Usage](/tools/trello/)
+### [Trello Usage](/Trello/)
 Documentation and guidelines for using Trello in our project management. Learn about our board structure, workflows, and best practices.
 
 ## 🛠️ Tools and Services

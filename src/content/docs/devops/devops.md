@@ -10,7 +10,7 @@ Welcome to the DevOps section of the Schrödinger Hat Wiki. Here you'll find doc
 
 ## 📋 Available Documents
 
-### [Hetzner Infrastructure](/devops/hetzner/)
+### [Hetzner Infrastructure](/Hetzner/)
 Documentation for our Hetzner cloud infrastructure and services. Learn about our server setup, deployment processes, and infrastructure management.
 
 ## 🏗️ Infrastructure
