@@ -7,4 +7,4 @@ order: 3
 slug: "Testing"
 ---
 
-There will be mmore details soon!
+There will be more details soon!
