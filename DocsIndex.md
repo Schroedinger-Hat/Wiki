@@ -64,8 +64,5 @@
 - [Trello](src/content/docs/tools/Trello.md)
 - Figma
 - Flickr
-
-## Security
-
-- [Bitwarden](src/content/docs/Security/Bitwarden.md)
+- [Bitwarden](src/content/docs/tools/Bitwarden.md)
 
