@@ -67,5 +67,5 @@
 
 ## Security
 
-- Bitwarden
+- [Bitwarden](src/content/docs/Security/Bitwarden.md)
 
