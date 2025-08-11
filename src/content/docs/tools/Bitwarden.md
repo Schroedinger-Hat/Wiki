@@ -3,7 +3,7 @@ title: "Bitwarden"
 description: "Internal password and secrets management"
 tags: [internal-tools, security, credentials]
 draft: false
-order: 2
+order: 3
 slug: "Bitwarden"
 ---
 
